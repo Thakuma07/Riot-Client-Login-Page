@@ -6,7 +6,7 @@
   box-sizing: border-box;
 }
 body {
-    background: url('/background_desktop.jpg') no-repeat fixed;
+    background: url('background_desktop.jpg') no-repeat fixed;
     background-size:cover;
 }
 .logo-container {
